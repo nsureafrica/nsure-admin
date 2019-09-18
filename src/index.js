@@ -9,6 +9,9 @@ import "assets/scss/argon-dashboard-react.scss";
 import AdminLayout from "layouts/Admin.jsx";
 import AuthLayout from "layouts/Auth.jsx";
 
+
+import * as serviceWorker from './serviceWorker';
+
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
@@ -19,3 +22,5 @@ ReactDOM.render(
   </BrowserRouter>,
   document.getElementById("root")
 );
+
+serviceWorker.register();

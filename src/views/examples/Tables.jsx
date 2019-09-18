@@ -69,7 +69,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$2,500 USD</td>
+                      <td>2,500 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot mr-4">
                           <i className="bg-warning" />
@@ -219,7 +219,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$1,800 USD</td>
+                      <td>1,800 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot">
                           <i className="bg-success" />
@@ -369,7 +369,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$3,150 USD</td>
+                      <td>3,150 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot mr-4">
                           <i className="bg-danger" />
@@ -519,7 +519,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$4,400 USD</td>
+                      <td>4,400 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot">
                           <i className="bg-info" />
@@ -669,7 +669,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$2,200 USD</td>
+                      <td>2,200 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot mr-4">
                           <i className="bg-success" />
@@ -898,7 +898,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$2,500 USD</td>
+                      <td>2,500 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot mr-4">
                           <i className="bg-warning" />
@@ -1048,7 +1048,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$1,800 USD</td>
+                      <td>1,800 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot">
                           <i className="bg-success" />
@@ -1198,7 +1198,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$3,150 USD</td>
+                      <td>3,150 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot mr-4">
                           <i className="bg-danger" />
@@ -1348,7 +1348,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$4,400 USD</td>
+                      <td>4,400 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot">
                           <i className="bg-info" />
@@ -1498,7 +1498,7 @@ class Tables extends React.Component {
                           </Media>
                         </Media>
                       </th>
-                      <td>$2,200 USD</td>
+                      <td>2,200 KSHS</td>
                       <td>
                         <Badge color="" className="badge-dot mr-4">
                           <i className="bg-success" />

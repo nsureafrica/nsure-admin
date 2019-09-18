@@ -55,15 +55,15 @@ class Footer extends React.Component {
                 </NavLink>
               </NavItem>
 
-              <NavItem>
+              {/* <NavItem>
                 <NavLink
-                  href="https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md?ref=adr-admin-footer"
+                  href="https://www.google.com"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   MIT License
                 </NavLink>
-              </NavItem>
+              </NavItem> */}
             </Nav>
           </Col>
         </Row>

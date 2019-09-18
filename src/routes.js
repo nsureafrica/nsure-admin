@@ -1,6 +1,6 @@
 import Index from "views/Index.jsx";
-import Maps from "views/examples/Maps.jsx";
-import Icons from "views/examples/Icons.jsx";
+import InsuranceTypes from "./views/InsuranceTypes"
+import Policies from "./views/Policies"
 
 var routes = [
   {
@@ -12,16 +12,16 @@ var routes = [
   },
   {
     path: "/icons",
-    name: "Edit rates",
+    name: "Insurance Types",
     icon: "ni ni-planet text-blue",
-    component: Icons,
+    component: InsuranceTypes,
     layout: "/admin"
   },
   {
-    path: "/maps",
+    path: "/policies",
     name: "Policies",
     icon: "ni ni-pin-3 text-orange",
-    component: Maps,
+    component: Policies,
     layout: "/admin"
   }
 ];

@@ -298,7 +298,7 @@ let chartExample1 = {
           ticks: {
             callback: function(value) {
               if (!(value % 10)) {
-                return "$" + value + "k";
+                return value + "k";
               }
             }
           }
@@ -316,7 +316,7 @@ let chartExample1 = {
             content += label;
           }
 
-          content += "$" + yLabel + "k";
+          content += yLabel + "k";
           return content;
         }
       }
@@ -355,7 +355,7 @@ let chartExample2 = {
           ticks: {
             callback: function(value) {
               if (!(value % 10)) {
-                //return '$' + value + 'k'
+                //return value + 'k'
                 return value;
               }
             }

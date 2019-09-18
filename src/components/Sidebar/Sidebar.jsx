@@ -141,7 +141,9 @@ class Sidebar extends React.Component {
                   <span className="avatar avatar-sm rounded-circle">
                     <img
                       alt="..."
-                      src={require("assets/img/theme/team-1-800x800.jpg")}
+
+                      //TODO change this to user
+                      src={require("assets/img/theme/noimage.png")}
                     />
                   </span>
                 </Media>
@@ -240,12 +242,6 @@ class Sidebar extends React.Component {
                   Terms and Conditions
                 </NavLink>
               </NavItem>
-              {/* <NavItem>
-                <NavLink href="https://demos.nsureafrica.com/argon-dashboard-react/documentation/alerts?ref=adr-admin-sidebar">
-                  <i className="ni ni-ui-04" />
-                  Components
-                </NavLink>
-              </NavItem> */}
             </Nav>
           </Collapse>
         </Container>
